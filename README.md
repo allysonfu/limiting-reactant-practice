@@ -5,7 +5,7 @@ This program is an exercise in chemistry wherein the user will need to use mole 
 given the amount of excess reactant remaining after a reaction has gone to completion. To start the reaction, there are equal amounts of each reactant in the vessel, and none of the product has been produced yet. 
 
 Each problem can be solved by hand as follows:
-Ex. N₂ + 3H₂ -> 2NH₃
+Ex. N₂ + 3H₂ -> 2NH₃.
 In this reaction, for every 1 mol of N₂ consumed, 3 mols of H₂ will be consumed. 
 Given that the reaction vessel has equal amounts of both reactants to start, H₂ must be the limiting reactant because it is consumed (essentially) three times as quickly as N₂. From this, we can deduce that H₂ will be consumed completely by the end of the reaction, and the given amount of "excess reactant" relates to N₂. 
 
